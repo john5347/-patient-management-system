@@ -1,4 +1,4 @@
-# Patient Management System
+# Patient Management System using C++
 
 This project implements a patient management system, which allows users to manage and retrieve patient records. It utilizes linked lists to efficiently store and manage the patient data.
 
